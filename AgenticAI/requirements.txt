@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+pydantic
+pandas
+numpy
+openai
+mcp[cli]
+ragas

@@ -1,0 +1,17 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-chroma
+chromadb
+faiss-cpu
+sentence-transformers
+scikit-learn
+pandas
+numpy
+pydantic
+ragas
+pillow
+openai

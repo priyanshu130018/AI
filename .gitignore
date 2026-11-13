@@ -1,0 +1,61 @@
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+lc-academy-env/
+langchain-academy/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python caches and build output
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test, coverage, and type-checker output
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Generated databases, indexes, and vector stores
+*.db
+*.sqlite
+*.sqlite3
+*.faiss
+chroma_db/
+state_db/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and local configuration
+*.log
+*.local
+

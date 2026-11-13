@@ -1,0 +1,12 @@
+RAG stands for Retrieval-Augmented Generation.
+
+RAG combines information retrieval with a language model.
+Instead of asking the language model to answer only from its
+training data, the system first retrieves relevant information
+from an external knowledge base.
+
+The retrieved information is then provided to the language model
+as context.
+
+A basic RAG pipeline contains document loading, chunking,
+embedding generation, vector storage, retrieval, and generation.
